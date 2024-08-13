@@ -10,4 +10,4 @@
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Mac Millian's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmillianzungene&show_icons=true&theme=radical&show_icons=true))](https://github.com/anuraghzra/github-readme-stats)
+[![Mac Millian's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmillianzungene&show_icons=true&theme=radical&hide_icons=true))](https://github.com/anuraghzra/github-readme-stats)
